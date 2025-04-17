@@ -1,0 +1,45 @@
+// HTML means 
+* H=Hyper
+* T=Text
+* M=Markup
+* L=Language
+
+// First install vscode
+* VsCode link  =https://code.visualstudio.com/download
+
+/ let's Start HTML
+* basic code or Boilerplate code
+-> type ! {exclamation mark}
+** VsCode generate automatic this code
+
+// name of brakats in HTML
+* <tag name> -> starting tag
+* </tag name> -> closeing tag
+
+// some important tag name
+* p -> paragraph tag
+* h1 ->heading no 1 {most used tag in heading}
+* h2 ->heading no 2
+* h3 ->heading no 3
+* h4 ->heading no 4
+* h5 ->heading no 5
+* h6 ->heading no 6
+* a -> ancar tag
+* big ->big tag {big text}
+* small->small tag {small text}
+* labal -> labal tag
+* form ->form tag
+* div ->div tag {most used tag}
+* span ->span tag
+* body ->body tag
+* ui ->Unorder list tag
+* oi -> Order list tag
+* li ->list tag
+* style ->style tag
+
+// Sellector
+* class
+* id 
+
+// Comment in HTML2
+* <!-- Comment -->
